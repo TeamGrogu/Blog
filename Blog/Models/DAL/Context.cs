@@ -3,9 +3,9 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System.Data;
 
-namespace Blog.DAL
+namespace Blog.Models.DAL
 {
-    public class Context :  IdentityDbContext<User, Role, int>
+    public class Context : IdentityDbContext<User, Role, int>
     {
         public Context(DbContextOptions<Context> options) : base(options)
         {

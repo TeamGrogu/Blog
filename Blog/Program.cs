@@ -1,4 +1,4 @@
-using Blog.DAL;
+using Blog.Models.DAL;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

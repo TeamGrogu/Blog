@@ -1,5 +1,5 @@
-﻿using Blog.DAL;
-using Blog.Models;
+﻿using Blog.Models;
+using Blog.Models.DAL;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
