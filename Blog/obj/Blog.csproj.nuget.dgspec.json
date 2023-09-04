@@ -1,37 +1,20 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\Blog.csproj": {}
+    "C:\\Users\\sabri\\Desktop\\Blog projesi\\Blog\\Blog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\Blog.csproj": {
+    "C:\\Users\\sabri\\Desktop\\Blog projesi\\Blog\\Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\Blog.csproj",
+        "projectUniqueName": "C:\\Users\\sabri\\Desktop\\Blog projesi\\Blog\\Blog.csproj",
         "projectName": "Blog",
-        "projectPath": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\Blog.csproj",
-        "packagesPath": "C:\\Users\\omerf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\obj\\",
+        "projectPath": "C:\\Users\\sabri\\Desktop\\Blog projesi\\Blog\\Blog.csproj",
+        "packagesPath": "C:\\Users\\sabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sabri\\Desktop\\Blog projesi\\Blog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\omerf\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-    "C:\\Users\\DELL\\Desktop\\Blog2\\Blog\\Blog.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\DELL\\Desktop\\Blog2\\Blog\\Blog.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Blog2\\Blog\\Blog.csproj",
-        "projectName": "Blog",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\Blog2\\Blog\\Blog.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\Blog2\\Blog\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 53ff53d0011d7f2ff061ab2f30b34afecec06512
+          "C:\\Users\\sabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -113,11 +97,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
->>>>>>> 53ff53d0011d7f2ff061ab2f30b34afecec06512
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
