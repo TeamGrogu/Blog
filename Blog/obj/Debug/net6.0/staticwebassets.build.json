@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "l30JKBiLWP1c/flk+82NYoIiWiygnKbxBpoxwifxx+Y=",
-=======
-  "Hash": "fyp/eRwZNBexrNcFddz/wosEoaaYAjlqQKJD/TiEqto=",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
+  "Hash": "9dNK39vlDYrt0r1cC9yHXZEP2LMcLk2U89rKn4IDCJE=",
   "Source": "Blog",
   "BasePath": "_content/Blog",
   "Mode": "Default",
@@ -14,27 +10,17 @@
     {
       "Name": "Blog\\wwwroot",
       "Source": "Blog",
-<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Blog.styles.css",
-      "SourceId": "Blog",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-=======
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\css\\site.css",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -45,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\favicon.ico",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -62,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\js\\site.js",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -79,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -96,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -113,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -130,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -147,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -164,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -181,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -198,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -215,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -232,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -249,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -266,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -283,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -300,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -317,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -334,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -351,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -368,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -385,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -402,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -419,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -436,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -453,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -470,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -487,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -504,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -521,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -538,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -555,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -572,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -589,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -606,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -623,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -640,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -657,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -674,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -691,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -708,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -725,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -742,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -759,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -776,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -793,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -810,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -827,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -844,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -861,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -878,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -895,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -912,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -929,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -946,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -963,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -980,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -997,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1014,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1031,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1048,14 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\omerf\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Blog.styles.css",
+      "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Blog.styles.css",
       "SourceId": "Blog",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
+      "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Blog",
       "RelativePath": "Blog.styles.css",
       "AssetKind": "All",
@@ -1066,7 +1051,6 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Blog.styles.css"
     },
     {
@@ -1074,15 +1058,6 @@
       "SourceId": "Blog",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-=======
-      "OriginalItemSpec": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Blog.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Blog.bundle.scp.css",
-      "SourceId": "Blog",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "Blog.bundle.scp.css",
       "AssetKind": "All",
@@ -1093,7 +1068,6 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Blog.bundle.scp.css"
     },
     {
@@ -1101,15 +1075,6 @@
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "OriginalItemSpec": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Blog.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\css\\site.css",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1123,7 +1088,6 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\css\\theme-1.css",
       "SourceId": "Blog",
       "SourceType": "Discovered",
@@ -1264,12 +1228,6 @@
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\favicon.ico",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1283,7 +1241,6 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\images\\about-me.jpg",
       "SourceId": "Blog",
       "SourceType": "Discovered",
@@ -1628,12 +1585,6 @@
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\js\\site.js",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1647,7 +1598,6 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\js\\style-switcher.js",
       "SourceId": "Blog",
       "SourceType": "Discovered",
@@ -1669,12 +1619,6 @@
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1688,17 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1712,17 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1736,17 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1760,17 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1784,17 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1808,17 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1832,17 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1856,17 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1880,17 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1904,17 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1928,17 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1952,17 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1976,17 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2000,17 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2024,17 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2048,17 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2072,17 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2096,17 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2120,17 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2144,17 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2168,17 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2192,17 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2216,17 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2240,17 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2264,17 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2288,17 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2312,17 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2336,17 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2360,17 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2384,17 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2408,17 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2432,17 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2456,17 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2480,17 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2504,17 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2528,17 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2552,17 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2576,17 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2600,17 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2624,17 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2648,17 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2672,17 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2696,17 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2720,17 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2744,17 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2768,17 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2792,17 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2816,17 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2840,17 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2864,17 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2888,17 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2912,17 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2936,17 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2960,17 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2984,17 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3008,17 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Blog",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "Blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\wwwroot\\",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
       "BasePath": "_content/Blog",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
