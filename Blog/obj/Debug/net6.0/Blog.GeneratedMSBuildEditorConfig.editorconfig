@@ -9,65 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Blog
 build_property.RootNamespace = Blog
-build_property.ProjectDir = C:\Users\sabri\Desktop\Blog projesi\Blog\
+build_property.ProjectDir = C:\Users\DELL\Desktop\Blog2\Blog\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\sabri\Desktop\Blog projesi\Blog
+build_property.MSBuildProjectDirectory = C:\Users\DELL\Desktop\Blog2\Blog
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Account/ConfirmEmail.cshtml]
+[C:/Users/DELL/Desktop/Blog2/Blog/Views/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Account/Error.cshtml]
+[C:/Users/DELL/Desktop/Blog2/Blog/Views/Account/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFcnJvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Account/ForgotPassword.cshtml]
+[C:/Users/DELL/Desktop/Blog2/Blog/Views/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Account/Login.cshtml]
+[C:/Users/DELL/Desktop/Blog2/Blog/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Account/Register.cshtml]
+[C:/Users/DELL/Desktop/Blog2/Blog/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Home/About.cshtml]
+[C:/Users/DELL/Desktop/Blog2/Blog/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Home/BlogList.cshtml]
+[C:/Users/DELL/Desktop/Blog2/Blog/Views/Home/BlogList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Home/BlogPost.cshtml]
+[C:/Users/DELL/Desktop/Blog2/Blog/Views/Home/BlogPost.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nUG9zdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Home/Index.cshtml]
+[C:/Users/DELL/Desktop/Blog2/Blog/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Shared/Error.cshtml]
+[C:/Users/DELL/Desktop/Blog2/Blog/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/DELL/Desktop/Blog2/Blog/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/_ViewImports.cshtml]
+[C:/Users/DELL/Desktop/Blog2/Blog/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/_ViewStart.cshtml]
+[C:/Users/DELL/Desktop/Blog2/Blog/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Shared/_Layout.cshtml]
+[C:/Users/DELL/Desktop/Blog2/Blog/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9b4f8crvh3
