@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Bootstrap 4 Blog Template For Developers</title>
+	<title>BLOG</title>
 
 	<!-- Meta -->
 	<meta charset="utf-8">
@@ -21,30 +21,59 @@
 
 <body>
 
-	
+	<header class="header text-center">
+		<h1 class="blog-name pt-lg-4 mb-0"><a href="/Home/Index">Anthony's Blog</a></h1>
+
+		<nav class="navbar navbar-expand-lg navbar-dark">
+
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div id="navigation" class="collapse navbar-collapse flex-column">
+				<div class="profile-section pt-3 pt-lg-0">
+					<img class="profile-image mb-3 rounded-circle mx-auto" src="~/images/profile.png" alt="image">
+
+					<div class="bio mb-3">Hi, my name is Anthony Doe. Briefly introduce yourself here. You can also provide a link to the about page.<br><a href="/Home/About">Find out more about me</a></div><!--//bio-->
+					<ul class="social-list list-inline py-3 mx-auto">
+						<li class="list-inline-item"><a href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
+						<li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+						<li class="list-inline-item"><a href="#"><i class="fab fa-github-alt fa-fw"></i></a></li>
+						<li class="list-inline-item"><a href="#"><i class="fab fa-stack-overflow fa-fw"></i></a></li>
+						<li class="list-inline-item"><a href="#"><i class="fab fa-codepen fa-fw"></i></a></li>
+					</ul><!--//social-list-->
+					<hr>
+				</div><!--//profile-section-->
+
+				<ul class="navbar-nav flex-column text-left">
+					<li class="nav-item active">
+						<a class="nav-link" href="/Home/Index"><i class="fas fa-home fa-fw mr-2"></i>Blog Home <span class="sr-only">(current)</span></a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="/Home/BlogPost"><i class="fas fa-bookmark fa-fw mr-2"></i>Blog Post</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="/Home/About"><i class="fas fa-user fa-fw mr-2"></i>About Me</a>
+					</li>
+				</ul>
+
+				<div class="my-2 my-md-3">
+					<a class="btn btn-primary" href="https://www.google.com/" target="_blank">Search Google</a>
+				</div>
+			</div>
+		</nav>
+	</header>
 
 	<div class="main-wrapper">
-		<section class="cta-section theme-bg-light py-5">
-			<div class="container text-center">
-				<h2 class="heading">DevBlog - A Blog Template Made For Developers</h2>
-				<div class="intro">Welcome to my blog. Subscribe and get my latest blog post in your inbox.</div>
-				<form class="signup-form form-inline justify-content-center pt-3">
-					<div class="form-group">
-						<label class="sr-only" for="semail">Your email</label>
-						<input type="email" id="semail" name="semail1" class="form-control mr-md-1 semail" placeholder="Enter email">
-					</div>
-					<button type="submit" class="btn btn-primary">Subscribe</button>
-				</form>
-			</div><!--//container-->
-		</section>
+
 		<section class="blog-list px-3 py-5 p-md-5">
 			<div class="container">
 				<div class="item mb-5">
 					<div class="media">
-						<img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="~/images/blog/blog-post-thumb-1.jpg" alt="image">
+						<img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="~/images/blog/blog-post-thumb-7.jpg" alt="image">
 						<div class="media-body">
-							<h3 class="title mb-1"><a href="blog-post.html">Why Every Developer Should Have A Blog</a></h3>
-							<div class="meta mb-1"><span class="date">Published 2 days ago</span><span class="time">5 min read</span><span class="comment"><a href="#">8 comments</a></span></div>
+							<h3 class="title mb-1"><a href="/Home/BlogPost">Heading Lorem Ipsum Dolor Sit Amet</a></h3>
+							<div class="meta mb-1"><span class="date">Published 3 months ago</span><span class="time">5 min read</span><span class="comment"><a href="#">4 comments</a></span></div>
 							<div class="intro">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies...</div>
 							<a class="more-link" href="/Home/BlogPost">Read more &rarr;</a>
 						</div><!--//media-body-->
@@ -52,33 +81,10 @@
 				</div><!--//item-->
 				<div class="item mb-5">
 					<div class="media">
-						<img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="~/images/blog/blog-post-thumb-2.jpg" alt="image">
+						<img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="~/images/blog/blog-post-thumb-8.jpg" alt="image">
 						<div class="media-body">
-							<h3 class="title mb-1"><a href="blog-post.html">A Guide to Becoming a Full-Stack Developer</a></h3>
-							<div class="meta mb-1"><span class="date">Published 3 months ago</span><span class="time">3 min read</span><span class="comment"><a href="#">26 comments</a></span></div>
-							<div class="intro">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies...</div>
-							<a class="more-link" href="/Home/BlogPost">Read more &rarr;</a>
-						</div><!--//media-body-->
-					</div><!--//media-->
-				</div><!--//item-->
-
-				<div class="item mb-5">
-					<div class="media">
-						<img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="~/images/blog/blog-post-thumb-3.jpg" alt="image">
-						<div class="media-body">
-							<h3 class="title mb-1"><a href="blog-post.html">High Performance JavaScript</a></h3>
-							<div class="meta mb-1"><span class="date">Published 1 month ago</span><span class="time">8 min read</span><span class="comment"><a href="#">12 comments</a></span></div>
-							<div class="intro">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies...</div>
-							<a class="more-link" href="/Home/BlogPost">Read more &rarr;</a>
-						</div><!--//media-body-->
-					</div><!--//media-->
-				</div><!--//item-->
-				<div class="item mb-5">
-					<div class="media">
-						<img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="~/images/blog/blog-post-thumb-4.jpg" alt="image">
-						<div class="media-body">
-							<h3 class="title mb-1"><a href="blog-post.html">Top 5 JavaScript Frameworks</a></h3>
-							<div class="meta mb-1"><span class="date">Published 2 months ago</span><span class="time">15 min read</span><span class="comment"><a href="#">3 comments</a></span></div>
+							<h3 class="title mb-1"><a href="/Home/BlogPost">Heading Lorem Ipsum Dolor Sit Amet</a></h3>
+							<div class="meta mb-1"><span class="date">Published 4 months ago</span><span class="time">3 min read</span><span class="comment"><a href="#">2 comments</a></span></div>
 							<div class="intro">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies...</div>
 							<a class="more-link" href="/Home/BlogPost">Read more &rarr;</a>
 						</div><!--//media-body-->
@@ -87,10 +93,33 @@
 
 				<div class="item mb-5">
 					<div class="media">
-						<img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="~/images/blog/blog-post-thumb-5.jpg" alt="image">
+						<img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="~/images/blog/blog-post-thumb-9.jpg" alt="image">
 						<div class="media-body">
-							<h3 class="title mb-1"><a href="blog-post.html">Learn React in 24 Hours</a></h3>
-							<div class="meta mb-1"><span class="date">Published 2 months ago</span><span class="time">10 min read</span><span class="comment"><a href="#">23 comments</a></span></div>
+							<h3 class="title mb-1"><a href="/Home/BlogPost">Heading Nemo Enim Ipsam Voluptatem </a></h3>
+							<div class="meta mb-1"><span class="date">Published 4 months ago</span><span class="time">8 min read</span><span class="comment"><a href="#">7 comments</a></span></div>
+							<div class="intro">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies...</div>
+							<a class="more-link" href="/Home/BlogPost">Read more &rarr;</a>
+						</div><!--//media-body-->
+					</div><!--//media-->
+				</div><!--//item-->
+				<div class="item mb-5">
+					<div class="media">
+						<img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="~/images/blog/blog-post-thumb-10.jpg" alt="image">
+						<div class="media-body">
+							<h3 class="title mb-1"><a href="/Home/BlogPost">Heading Perspiciatis Unde Omnis </a></h3>
+							<div class="meta mb-1"><span class="date">Published 5 months ago</span><span class="time">15 min read</span><span class="comment"><a href="#">3 comments</a></span></div>
+							<div class="intro">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies...</div>
+							<a class="more-link" href="/Home/BlogPost">Read more &rarr;</a>
+						</div><!--//media-body-->
+					</div><!--//media-->
+				</div><!--//item-->
+
+				<div class="item mb-5">
+					<div class="media">
+						<img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="~/images/blog/blog-post-thumb-11.jpg" alt="image">
+						<div class="media-body">
+							<h3 class="title mb-1"><a href="/Home/BlogPost">Heading Duis Arcu Tortor</a></h3>
+							<div class="meta mb-1"><span class="date">Published 5 months ago</span><span class="time">10 min read</span><span class="comment"><a href="#">0 comment</a></span></div>
 							<div class="intro">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies...</div>
 							<a class="more-link" href="/Home/BlogPost">Read more &rarr;</a>
 						</div><!--//media-body-->
@@ -99,10 +128,10 @@
 
 				<div class="item">
 					<div class="media">
-						<img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="~/images/blog/blog-post-thumb-6.jpg" alt="image">
+						<img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="~/images/blog/blog-post-thumb-12.jpg" alt="image">
 						<div class="media-body">
-							<h3 class="title mb-1"><a href="blog-post.html">About Remote Working</a></h3>
-							<div class="meta mb-1"><span class="date">Published 3 months ago</span><span class="time">2 min read</span><span class="comment"><a href="#">1 comment</a></span></div>
+							<h3 class="title mb-1"><a href="/Home/BlogPost">Heading Vestibulum Ante Ipsum Primis</a></h3>
+							<div class="meta mb-1"><span class="date">Published 6 months ago</span><span class="time">2 min read</span><span class="comment"><a href="#">8 comments</a></span></div>
 							<div class="intro">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies...</div>
 							<a class="more-link" href="/Home/BlogPost">Read more &rarr;</a>
 						</div><!--//media-body-->
@@ -110,8 +139,8 @@
 				</div><!--//item-->
 
 				<nav class="blog-nav nav nav-justified my-5">
-					<a class="nav-link-prev nav-item nav-link d-none rounded-left" href="/Home/BlogList">Previous<i class="arrow-prev fas fa-long-arrow-alt-left"></i></a>
-					<a class="nav-link-next nav-item nav-link rounded" href="/Home/BlogList">Next<i class="arrow-next fas fa-long-arrow-alt-right"></i></a>
+					<a class="nav-link-prev nav-item nav-link rounded-left" href="/Home/Index">Previous<i class="arrow-prev fas fa-long-arrow-alt-left"></i></a>
+					<a class="nav-link-next nav-item nav-link rounded-right" href="/Home/BlogList">Next<i class="arrow-next fas fa-long-arrow-alt-right"></i></a>
 				</nav>
 
 			</div>
