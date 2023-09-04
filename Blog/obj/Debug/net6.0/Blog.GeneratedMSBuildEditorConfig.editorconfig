@@ -9,73 +9,73 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Blog
 build_property.RootNamespace = Blog
-build_property.ProjectDir = C:\Users\omerf\source\repos\Blog\Blog\
+build_property.ProjectDir = C:\Users\sabri\Desktop\Blog projesi\Blog\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\omerf\source\repos\Blog\Blog
+build_property.MSBuildProjectDirectory = C:\Users\sabri\Desktop\Blog projesi\Blog
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/omerf/source/repos/Blog/Blog/Views/Account/AccountSettings.cshtml]
+[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Account/AccountSettings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2NvdW50U2V0dGluZ3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omerf/source/repos/Blog/Blog/Views/Account/ConfirmEmail.cshtml]
+[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omerf/source/repos/Blog/Blog/Views/Account/Error.cshtml]
+[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Account/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFcnJvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omerf/source/repos/Blog/Blog/Views/Account/ForgotPassword.cshtml]
+[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omerf/source/repos/Blog/Blog/Views/Account/Login.cshtml]
+[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omerf/source/repos/Blog/Blog/Views/Account/Register.cshtml]
+[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omerf/source/repos/Blog/Blog/Views/Account/WriteArticle.cshtml]
+[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Account/WriteArticle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxXcml0ZUFydGljbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omerf/source/repos/Blog/Blog/Views/Home/About.cshtml]
+[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omerf/source/repos/Blog/Blog/Views/Home/BlogList.cshtml]
+[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Home/BlogList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omerf/source/repos/Blog/Blog/Views/Home/BlogPost.cshtml]
+[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Home/BlogPost.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nUG9zdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omerf/source/repos/Blog/Blog/Views/Home/Index.cshtml]
+[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omerf/source/repos/Blog/Blog/Views/Shared/Error.cshtml]
+[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omerf/source/repos/Blog/Blog/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omerf/source/repos/Blog/Blog/Views/_ViewImports.cshtml]
+[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omerf/source/repos/Blog/Blog/Views/_ViewStart.cshtml]
+[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omerf/source/repos/Blog/Blog/Views/Shared/_Layout.cshtml]
+[C:/Users/sabri/Desktop/Blog projesi/Blog/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9b4f8crvh3
