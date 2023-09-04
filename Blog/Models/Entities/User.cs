@@ -7,7 +7,7 @@ namespace Blog.Models.Entities
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public string BirthDate { get; set; }
+        public DateTime BirthDate { get; set; }
         public string Aciklama { get; set; }
         public string Image { get; set; }
         public ICollection<Makale>? Makales { get; set; }

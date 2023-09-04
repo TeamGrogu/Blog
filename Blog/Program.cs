@@ -1,15 +1,15 @@
-<<<<<<< HEAD
 using Blog.Services;
-=======
-using Blog.DAL;
+using Blog.Models.DAL;
 using Microsoft.EntityFrameworkCore;
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
+using Blog.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-<<<<<<< HEAD
+builder.Services.AddDbContext<Context>
+	(x => x.UseSqlServer(builder.Configuration.GetConnectionString("ConnStr")));
+
 builder.Services.ConfigureApplicationCookie(
                  option =>
                  {
@@ -19,13 +19,11 @@ builder.Services.ConfigureApplicationCookie(
                  }
              );
 builder.Services.AddScoped<IUserService, UserService>();
-//builder.Services.AddSingleton(builder.Configuration.GetSection("EmailConfiguration").Get<EmailConfiguration>());
+builder.Services.AddSingleton(builder.Configuration.GetSection("EmailConfiguration").Get<EmailConfiguration>());
 builder.Services.AddScoped<IEmailService, EmailService>();
-=======
-builder.Services.AddDbContext<Context>
-    (x => x.UseSqlServer(builder.Configuration.GetConnectionString("ConnStr")));
 
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -36,7 +34,7 @@ if (!app.Environment.IsDevelopment())
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

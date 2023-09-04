@@ -3,9 +3,9 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System.Data;
 
-namespace Blog.DAL
+namespace Blog.Models.DAL
 {
-    public class Context :  IdentityDbContext<User, Role, int>
+    public class Context : IdentityDbContext<User, Role, int>
     {
         public Context(DbContextOptions<Context> options) : base(options)
         {
@@ -21,6 +21,11 @@ namespace Blog.DAL
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.Entity<User>().Property(x => x.Image).HasColumnType("binary");
+
+            builder.Entity<Role>().HasData(
+                    new Role { Id = 1, Name = "Admin", NormalizedName = "ADMIN" },
+                    new Role { Id = 2, Name = "Standard", NormalizedName = "STANDARD" }
+                );
 
             base.OnModelCreating(builder);
         }

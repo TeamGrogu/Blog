@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\sabri\\Desktop\\Blog projesi\\Blog\\Blog.csproj": {}
   },
   "projects": {
@@ -16,22 +15,6 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-    "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\Blog.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\Blog.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\Blog.csproj",
-        "projectName": "Blog",
-        "projectPath": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\Blog.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Source\\Repos\\Blog\\Blog\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,15 +41,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-<<<<<<< HEAD
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[6.0.16, )"
-            },
-            "NETCore.MailKit": {
-              "target": "Package",
-              "version": "[2.1.0, )"
-=======
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.21, )"
@@ -94,7 +68,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.21, )"
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "NETCore.MailKit": {
+              "target": "Package",
+              "version": "[2.1.0, )"
             }
           },
           "imports": [
@@ -116,11 +97,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
->>>>>>> 80bae1923f38a7b93b318acf7513cda3688a446a
         }
       }
     }
