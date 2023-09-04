@@ -1,0 +1,46 @@
+﻿@model ChangeUserSettingsVM
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <h3>Change Password</h3>
+        <form>
+            <div class="form-group">
+            <label asp-for="OldPassword">Old Password</label>
+            <input type="password" asp-for="OldPassword"/>
+            <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+            <label asp-for="Password">New Password</label>
+            <input type="password" asp-for="Password" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+            <label>Selected Image</label>
+            <img id="selectedImage" src="#" alt="Selected Image" style="display: none; max-width: 100%;">
+            <input asp-for="UserImage" type="file" id="imagePicker" accept="image/*">
+            </div>
+            <div class="form-group">
+            <input type="submit" class="btn btn-danger" asp-controller="Account" asp-action="ChangePassword" value="Change Settings"/>
+            </div>
+        </form>
+    </div>
+</div>
+<hr />
+<script>
+    const imagePicker = document.getElementById('imagePicker');
+    const selectedImage = document.getElementById('selectedImage');
+
+    imagePicker.addEventListener('change', function () {
+        const file = imagePicker.files[0];
+
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                selectedImage.src = e.target.result;
+                selectedImage.style.display = 'block';
+            };
+            reader.readAsDataURL(file);
+        }
+    });
+</script>

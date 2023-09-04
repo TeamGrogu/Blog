@@ -4,6 +4,7 @@ using Blog.Models.ViewModel;
 using Blog.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.Drawing;
 
 namespace Blog.Controllers
 {
@@ -186,5 +187,31 @@ namespace Blog.Controllers
 			}
 			return View(vm);
 		}
+        public IActionResult AccountSettings()
+        {
+            return View();
+        }
+        public async Task<IActionResult> ChangePassword(ChangeUserSettingsVM vm)
+        {
+            if (vm.Password != null)
+            {
+                User user = await userManager.GetUserAsync(User);
+                if (user != null)
+                {
+                    await userManager.ChangePasswordAsync(user, vm.OldPassword, vm.Password);
+                }
+            }
+            return View("AccountSettings");
+        }
+        //image secme yetismedi
+        public async Task<IActionResult> ChangeImage(ChangeUserSettingsVM vm)
+        {
+            User user = await userManager.GetUserAsync(User);
+            if (user != null)
+            {
+
+            }
+            return RedirectToAction("Index", "Home");
+        }
     }
 }
