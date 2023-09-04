@@ -7,7 +7,7 @@ namespace Blog.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+       
         private readonly Context _db;
         public HomeController(Context db)
         {
