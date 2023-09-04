@@ -46,6 +46,56 @@ namespace Blog.Migrations
                     b.HasKey("ID");
 
                     b.ToTable("Konus");
+
+                    b.HasData(
+                        new
+                        {
+                            ID = 1,
+                            CreateDate = new DateTime(2023, 9, 4, 15, 25, 26, 855, DateTimeKind.Local).AddTicks(4951),
+                            IsActive = true,
+                            KonuAdi = "Teknoloji",
+                            UpdateDate = new DateTime(2023, 9, 4, 15, 25, 26, 855, DateTimeKind.Local).AddTicks(4962)
+                        },
+                        new
+                        {
+                            ID = 2,
+                            CreateDate = new DateTime(2023, 9, 4, 15, 25, 26, 855, DateTimeKind.Local).AddTicks(4964),
+                            IsActive = true,
+                            KonuAdi = "Felsefe",
+                            UpdateDate = new DateTime(2023, 9, 4, 15, 25, 26, 855, DateTimeKind.Local).AddTicks(4965)
+                        },
+                        new
+                        {
+                            ID = 3,
+                            CreateDate = new DateTime(2023, 9, 4, 15, 25, 26, 855, DateTimeKind.Local).AddTicks(4965),
+                            IsActive = true,
+                            KonuAdi = "Bilim",
+                            UpdateDate = new DateTime(2023, 9, 4, 15, 25, 26, 855, DateTimeKind.Local).AddTicks(4966)
+                        },
+                        new
+                        {
+                            ID = 4,
+                            CreateDate = new DateTime(2023, 9, 4, 15, 25, 26, 855, DateTimeKind.Local).AddTicks(4966),
+                            IsActive = true,
+                            KonuAdi = "Yazılım",
+                            UpdateDate = new DateTime(2023, 9, 4, 15, 25, 26, 855, DateTimeKind.Local).AddTicks(4966)
+                        },
+                        new
+                        {
+                            ID = 5,
+                            CreateDate = new DateTime(2023, 9, 4, 15, 25, 26, 855, DateTimeKind.Local).AddTicks(4967),
+                            IsActive = true,
+                            KonuAdi = "Kişisel Gelişim",
+                            UpdateDate = new DateTime(2023, 9, 4, 15, 25, 26, 855, DateTimeKind.Local).AddTicks(4967)
+                        },
+                        new
+                        {
+                            ID = 6,
+                            CreateDate = new DateTime(2023, 9, 4, 15, 25, 26, 855, DateTimeKind.Local).AddTicks(4968),
+                            IsActive = true,
+                            KonuAdi = "Film",
+                            UpdateDate = new DateTime(2023, 9, 4, 15, 25, 26, 855, DateTimeKind.Local).AddTicks(4968)
+                        });
                 });
 
             modelBuilder.Entity("Blog.Models.Entities.Makale", b =>

@@ -11249,11 +11249,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\sabri\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\omerf\\.nuget\\packages\\": {}
+>>>>>>> d7d51f3a9139dc4b5d0e06acc339d406c540fb95
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\sabri\\Desktop\\Blog projesi\\Blog\\Blog.csproj",
       "projectName": "Blog",
       "projectPath": "C:\\Users\\sabri\\Desktop\\Blog projesi\\Blog\\Blog.csproj",
@@ -11262,6 +11267,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\Blog.csproj",
+      "projectName": "Blog",
+      "projectPath": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\Blog.csproj",
+      "packagesPath": "C:\\Users\\omerf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\omerf\\source\\repos\\Blog\\Blog\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\omerf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> d7d51f3a9139dc4b5d0e06acc339d406c540fb95
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11344,7 +11359,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+>>>>>>> d7d51f3a9139dc4b5d0e06acc339d406c540fb95
       }
     }
   }

@@ -20,6 +20,14 @@ namespace Blog.Models.DAL
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
+            builder.Entity<Konu>().HasData(
+                new Konu { ID = 1, KonuAdi = "Teknoloji" },
+                new Konu { ID = 2, KonuAdi = "Felsefe" },
+                new Konu { ID = 3, KonuAdi = "Bilim" },
+                new Konu { ID = 4, KonuAdi = "Yazılım" },
+                new Konu { ID = 5, KonuAdi = "Kişisel Gelişim" },
+                new Konu { ID = 6, KonuAdi = "Film" }
+                );
             builder.Entity<User>().Property(x => x.Image).HasColumnType("binary");
 
             builder.Entity<Role>().HasData(

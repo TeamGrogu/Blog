@@ -1,4 +1,5 @@
 ﻿using Blog.Models;
+using Blog.Models.DAL;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -6,19 +7,29 @@ namespace Blog.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+       
+        private readonly Context _db;
+        public HomeController(Context db)
         {
-            _logger = logger;
+            _db = db;
         }
+      
 
         public IActionResult Index()
         {
+           
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult About()
+        {
+            return View();
+        }
+        public IActionResult BlogPost()
+        {
+            return View();
+        }
+        public IActionResult BlogList()
         {
             return View();
         }
