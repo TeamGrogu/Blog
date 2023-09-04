@@ -1,6 +1,7 @@
 ﻿@model Blog.Models.ViewModel.LoginVM
 
 @{
+    Layout = "_Layout";
     ViewData["Title"] = "Login";
 }
 
@@ -34,7 +35,7 @@
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a href="/Home/Index">Back to List</a>
 </div>
 
 @section Scripts {

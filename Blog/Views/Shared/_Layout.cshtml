@@ -15,8 +15,14 @@
 </head>
 <body>
 	<header class="header text-center">
-		<h1 class="blog-name pt-lg-4 mb-0"><a href="index.html">Overthinker's Blog</a></h1>
-
+		@if (User.Identity.IsAuthenticated)
+				{
+		<h1 class="blog-name pt-lg-4 mb-0"><a href="Home/Index">@User.Identity.Name's  Blog</a></h1>
+				}
+		@if (!User.Identity.IsAuthenticated)
+		{
+			<h1 class="blog-name pt-lg-4 mb-0"><a href="Home/Index">Overthinker's Blog</a></h1>
+		}
 		<nav class="navbar navbar-expand-lg navbar-dark">
 
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
@@ -24,31 +30,49 @@
 			</button>
 
 			<div id="navigation" class="collapse navbar-collapse flex-column">
-				<div class="profile-section pt-3 pt-lg-0">
-					<img class="profile-image mb-3 rounded-circle mx-auto" src="~/images/profile.png" alt="image">
+				@if (User.Identity.IsAuthenticated)
+				{
+					<div class="profile-section pt-3 pt-lg-0">
+						<img class="profile-image mb-3 rounded-circle mx-auto" src="https://avatars.githubusercontent.com/u/142047596?s=200&v=4" alt="image">
 
-					<div class="bio mb-3">Hi, my name is Anthony Doe. Briefly introduce yourself here. You can also provide a link to the about page.<br><a href="/Home/About">Find out more about me</a></div><!--//bio-->
-					<ul class="social-list list-inline py-3 mx-auto">
-						<li class="list-inline-item"><a href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
-						<li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
-						<li class="list-inline-item"><a href="#"><i class="fab fa-github-alt fa-fw"></i></a></li>
-						<li class="list-inline-item"><a href="#"><i class="fab fa-stack-overflow fa-fw"></i></a></li>
-						<li class="list-inline-item"><a href="#"><i class="fab fa-codepen fa-fw"></i></a></li>
-					</ul><!--//social-list-->
-					<hr>
-				</div><!--//profile-section-->
-
+						<div class="bio mb-3">Hi, my name is @User.Identity.Name<br><a href="/Home/About">Find out more about me</a></div><!--//bio-->
+						<ul class="social-list list-inline py-3 mx-auto">
+							<li class="list-inline-item"><a href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
+							<li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+							<li class="list-inline-item"><a href="#"><i class="fab fa-github-alt fa-fw"></i></a></li>
+							<li class="list-inline-item"><a href="#"><i class="fab fa-stack-overflow fa-fw"></i></a></li>
+							<li class="list-inline-item"><a href="#"><i class="fab fa-codepen fa-fw"></i></a></li>
+						</ul><!--//social-list-->
+						<hr>
+					</div><!--//profile-section-->
+				}
 				<ul class="navbar-nav flex-column text-left">
 					<li class="nav-item active">
 						<a class="nav-link" href="/Home"><i class="fas fa-home fa-fw mr-2"></i>Blog Home <span class="sr-only">(current)</span></a>
 					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="/Home/BlogPost"><i class="fas fa-bookmark fa-fw mr-2"></i>Blog Post</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="/Home/About"><i class="fas fa-user fa-fw mr-2"></i>About Me</a>
-					</li>
-				</ul>
+					@if (User.Identity.IsAuthenticated)
+				{
+										
+						<li class="nav-item">
+							<a class="nav-link" href="/Home/About"><i class="fas fa-user fa-fw mr-2"></i>About Me</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="/Account/Logout"><i class="fa-solid fa-arrow-right-from-bracket"></i> Logout</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="/Account/WriteArticle"><i class="fas fa-user fa-fw mr-2"></i>Write Article</a>
+						</li>
+				}
+					@if (!User.Identity.IsAuthenticated)
+					{
+						<li class="nav-item">
+							<a class="nav-link" href="/Account/Login"><i class="fas fa-user fa-fw mr-2"></i>Login</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="/Account/Register"><i class="fas fa-user fa-fw mr-2"></i>Register</a>
+					</li>}
+					</ul>
+				
 
 				<div class="my-2 my-md-3">
 					<a class="btn btn-primary" href="https://www.google.com/" target="_blank">Search Google</a>
@@ -62,18 +86,15 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - Blog - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>
+
 @*    <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>*@
 	<script src="~/js/jquery-3.3.1.min.js"></script>
 	<script src="~/js/popper.min.js"></script>
 	<script src="~/js/bootstrap.min.js"></script>
-
+	<script src="https://kit.fontawesome.com/3d366d3709.js" crossorigin="anonymous"></script>
+	
 	<!-- Style Switcher (REMOVE ON YOUR PRODUCTION SITE) -->
 	<script src="~/js/style-switcher.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
