@@ -6,6 +6,7 @@
         public int YazarID { get; set; }
         public string Baslik { get; set; }
         public string Icerik { get; set; }
+        public string? MakaleImage { get; set; }
         public int? OkunmaSayisi { get; set; } = 0;
         public int? OkunmaSuresi { get; set; } = 0;
         public User? User { get; set; }

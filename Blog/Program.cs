@@ -4,8 +4,10 @@ using Microsoft.EntityFrameworkCore;
 using Blog.Models;
 using Blog.Models.Entities;
 using Microsoft.AspNetCore.Identity;
+using Blog.Models.ViewModel;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddScoped<MakaleVM>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

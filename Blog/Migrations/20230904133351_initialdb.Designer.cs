@@ -4,6 +4,7 @@ using Blog.Models.DAL;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Blog.Migrations
 {
     [DbContext(typeof(Context))]
-    partial class ContextModelSnapshot : ModelSnapshot
+    [Migration("20230904133351_initialdb")]
+    partial class initialdb
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -51,92 +53,50 @@ namespace Blog.Migrations
                         new
                         {
                             ID = 1,
-<<<<<<< HEAD
-                            CreateDate = new DateTime(2023, 9, 4, 15, 58, 42, 303, DateTimeKind.Local).AddTicks(5724),
-                            IsActive = true,
-                            KonuAdi = "Teknoloji",
-                            UpdateDate = new DateTime(2023, 9, 4, 15, 58, 42, 303, DateTimeKind.Local).AddTicks(5740)
-=======
                             CreateDate = new DateTime(2023, 9, 4, 16, 33, 50, 748, DateTimeKind.Local).AddTicks(464),
                             IsActive = true,
                             KonuAdi = "Teknoloji",
                             UpdateDate = new DateTime(2023, 9, 4, 16, 33, 50, 748, DateTimeKind.Local).AddTicks(478)
->>>>>>> 53ff53d0011d7f2ff061ab2f30b34afecec06512
                         },
                         new
                         {
                             ID = 2,
-<<<<<<< HEAD
-                            CreateDate = new DateTime(2023, 9, 4, 15, 58, 42, 303, DateTimeKind.Local).AddTicks(5743),
-                            IsActive = true,
-                            KonuAdi = "Felsefe",
-                            UpdateDate = new DateTime(2023, 9, 4, 15, 58, 42, 303, DateTimeKind.Local).AddTicks(5743)
-=======
                             CreateDate = new DateTime(2023, 9, 4, 16, 33, 50, 748, DateTimeKind.Local).AddTicks(483),
                             IsActive = true,
                             KonuAdi = "Felsefe",
                             UpdateDate = new DateTime(2023, 9, 4, 16, 33, 50, 748, DateTimeKind.Local).AddTicks(484)
->>>>>>> 53ff53d0011d7f2ff061ab2f30b34afecec06512
                         },
                         new
                         {
                             ID = 3,
-<<<<<<< HEAD
-                            CreateDate = new DateTime(2023, 9, 4, 15, 58, 42, 303, DateTimeKind.Local).AddTicks(5744),
-                            IsActive = true,
-                            KonuAdi = "Bilim",
-                            UpdateDate = new DateTime(2023, 9, 4, 15, 58, 42, 303, DateTimeKind.Local).AddTicks(5744)
-=======
                             CreateDate = new DateTime(2023, 9, 4, 16, 33, 50, 748, DateTimeKind.Local).AddTicks(484),
                             IsActive = true,
                             KonuAdi = "Bilim",
                             UpdateDate = new DateTime(2023, 9, 4, 16, 33, 50, 748, DateTimeKind.Local).AddTicks(485)
->>>>>>> 53ff53d0011d7f2ff061ab2f30b34afecec06512
                         },
                         new
                         {
                             ID = 4,
-<<<<<<< HEAD
-                            CreateDate = new DateTime(2023, 9, 4, 15, 58, 42, 303, DateTimeKind.Local).AddTicks(5744),
-                            IsActive = true,
-                            KonuAdi = "Yazılım",
-                            UpdateDate = new DateTime(2023, 9, 4, 15, 58, 42, 303, DateTimeKind.Local).AddTicks(5745)
-=======
                             CreateDate = new DateTime(2023, 9, 4, 16, 33, 50, 748, DateTimeKind.Local).AddTicks(486),
                             IsActive = true,
                             KonuAdi = "Yazılım",
                             UpdateDate = new DateTime(2023, 9, 4, 16, 33, 50, 748, DateTimeKind.Local).AddTicks(487)
->>>>>>> 53ff53d0011d7f2ff061ab2f30b34afecec06512
                         },
                         new
                         {
                             ID = 5,
-<<<<<<< HEAD
-                            CreateDate = new DateTime(2023, 9, 4, 15, 58, 42, 303, DateTimeKind.Local).AddTicks(5745),
-                            IsActive = true,
-                            KonuAdi = "Kişisel Gelişim",
-                            UpdateDate = new DateTime(2023, 9, 4, 15, 58, 42, 303, DateTimeKind.Local).AddTicks(5746)
-=======
                             CreateDate = new DateTime(2023, 9, 4, 16, 33, 50, 748, DateTimeKind.Local).AddTicks(487),
                             IsActive = true,
                             KonuAdi = "Kişisel Gelişim",
                             UpdateDate = new DateTime(2023, 9, 4, 16, 33, 50, 748, DateTimeKind.Local).AddTicks(488)
->>>>>>> 53ff53d0011d7f2ff061ab2f30b34afecec06512
                         },
                         new
                         {
                             ID = 6,
-<<<<<<< HEAD
-                            CreateDate = new DateTime(2023, 9, 4, 15, 58, 42, 303, DateTimeKind.Local).AddTicks(5747),
-                            IsActive = true,
-                            KonuAdi = "Film",
-                            UpdateDate = new DateTime(2023, 9, 4, 15, 58, 42, 303, DateTimeKind.Local).AddTicks(5747)
-=======
                             CreateDate = new DateTime(2023, 9, 4, 16, 33, 50, 748, DateTimeKind.Local).AddTicks(488),
                             IsActive = true,
                             KonuAdi = "Film",
                             UpdateDate = new DateTime(2023, 9, 4, 16, 33, 50, 748, DateTimeKind.Local).AddTicks(489)
->>>>>>> 53ff53d0011d7f2ff061ab2f30b34afecec06512
                         });
                 });
 
@@ -165,12 +125,9 @@ namespace Blog.Migrations
                     b.Property<int>("KonuID")
                         .HasColumnType("int");
 
-<<<<<<< HEAD
-=======
                     b.Property<string>("MakaleImage")
                         .HasColumnType("nvarchar(max)");
 
->>>>>>> 53ff53d0011d7f2ff061ab2f30b34afecec06512
                     b.Property<int?>("OkunmaSayisi")
                         .HasColumnType("int");
 
@@ -193,8 +150,6 @@ namespace Blog.Migrations
                     b.HasIndex("UserId");
 
                     b.ToTable("Makales");
-<<<<<<< HEAD
-=======
 
                     b.HasData(
                         new
@@ -249,7 +204,6 @@ namespace Blog.Migrations
                             UpdateDate = new DateTime(2023, 9, 4, 16, 33, 50, 748, DateTimeKind.Local).AddTicks(1016),
                             YazarID = 0
                         });
->>>>>>> 53ff53d0011d7f2ff061ab2f30b34afecec06512
                 });
 
             modelBuilder.Entity("Blog.Models.Entities.Role", b =>
@@ -285,22 +239,14 @@ namespace Blog.Migrations
                         new
                         {
                             Id = 1,
-<<<<<<< HEAD
-                            ConcurrencyStamp = "caf4e7b4-0af3-40ed-883b-c22835a705da",
-=======
                             ConcurrencyStamp = "02580734-0cc0-41e3-afbe-e53c70bfe974",
->>>>>>> 53ff53d0011d7f2ff061ab2f30b34afecec06512
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         },
                         new
                         {
                             Id = 2,
-<<<<<<< HEAD
-                            ConcurrencyStamp = "b8ee43d1-4849-4425-ad7b-154f42866b1f",
-=======
                             ConcurrencyStamp = "71eb4055-d4cc-41ab-9f18-2ebc9a56f955",
->>>>>>> 53ff53d0011d7f2ff061ab2f30b34afecec06512
                             Name = "Standard",
                             NormalizedName = "STANDARD"
                         });

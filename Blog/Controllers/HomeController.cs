@@ -1,5 +1,6 @@
 ﻿using Blog.Models;
 using Blog.Models.DAL;
+using Blog.Models.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -9,23 +10,31 @@ namespace Blog.Controllers
     {
        
         private readonly Context _db;
-        public HomeController(Context db)
+        private readonly MakaleVM _makaleVM;
+        public HomeController(Context db, MakaleVM makaleVM)
         {
             _db = db;
+            _makaleVM = makaleVM;
         }
-      
+
 
         public IActionResult Index()
         {
-           
-            return View();
-        }
+            TempData["sayac"] = 0;
 
-        public IActionResult About()
-        {
-            return View();
+            _makaleVM.Makaleler = _db.Makales.OrderByDescending(m => m.CreateDate).ToList();
+            _makaleVM.Konular = _db.Konus.ToList();
+            return View(_makaleVM);
         }
-        public IActionResult BlogPost()
+		[HttpGet]
+		public IActionResult BlogPost(int id)
+		{
+            _makaleVM.Makale = _db.Makales.Find(id);
+            _makaleVM.Yazar = _db.Users.FirstOrDefault(x => x.Id == _makaleVM.Makale.YazarID);
+            return View("BlogPost", _makaleVM);
+		}
+
+		public IActionResult About()
         {
             return View();
         }
