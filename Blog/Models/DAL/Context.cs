@@ -30,6 +30,11 @@ namespace Blog.Models.DAL
                 );
             builder.Entity<User>().Property(x => x.Image).HasColumnType("binary");
 
+            builder.Entity<Role>().HasData(
+                    new Role { Id = 1, Name = "Admin", NormalizedName = "ADMIN" },
+                    new Role { Id = 2, Name = "Standard", NormalizedName = "STANDARD" }
+                );
+
             base.OnModelCreating(builder);
         }
     }

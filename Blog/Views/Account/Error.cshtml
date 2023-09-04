@@ -1,0 +1,10 @@
+﻿@model LoginVM
+
+@if (ViewBag.ErrorTitle != null)
+{
+	<h1 style="color:orangered;"><i>@ViewBag.ErrorTitle</i></h1>
+}
+@if (ViewBag.ErrorMessage != null)
+{
+	<h3 style="color:orangered;"><i>@ViewBag.ErrorMessage</i></h3>
+}
