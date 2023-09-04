@@ -11,7 +11,6 @@ namespace Blog.Validations
 
             string input = value.ToString();
 
-            // Define your list of special characters here
             string specialCharacters = "!@#$%^&*()_+[]{}|;:'\",.<>?/";
 
             return input.Any(c => specialCharacters.Contains(c));

@@ -30,7 +30,6 @@ namespace Blog.Services
             }
             catch (Exception)
             {
-                //log an error message or throw an exception or both
                 throw;
             }
             finally
@@ -43,7 +42,7 @@ namespace Blog.Services
         private object CreateEmailMessage(Message message)
         {
             var emailMessage = new MimeMessage();
-            emailMessage.From.Add(new MailboxAddress("Overthinking Burger", _emailConfig.From));
+            emailMessage.From.Add(new MailboxAddress("Blog", _emailConfig.From));
             emailMessage.To.AddRange(message.To);
             emailMessage.Subject = message.Subject;
             emailMessage.Body = new TextPart(MimeKit.Text.TextFormat.Text) { Text = message.Content };

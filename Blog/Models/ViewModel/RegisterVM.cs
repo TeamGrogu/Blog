@@ -21,6 +21,7 @@ namespace Blog.Models.ViewModel
         [EmailCheck(ErrorMessage = "Email is already in use.")]
         public string Email { get; set; }
         [Required]
+        [DateCheck(ErrorMessage = "Birth date can't be later than today.")]
         public DateTime BirthDate { get; set; }
     }
 }

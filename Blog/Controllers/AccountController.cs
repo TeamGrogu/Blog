@@ -80,13 +80,13 @@ namespace Blog.Controllers
                     SendEmail(appUser.Email, content, subject);
 
                     await userManager.AddToRoleAsync(appUser, "Standard");
-                    ViewData["Message"] = "Registration successful, before you can Login, please confirm your email by clicking on the confirmation link we've sent to your email adress.";
+                    TempData["Message"] = "Registration successful, before you can Login, please confirm your email by clicking on the confirmation link we've sent to your email adress.";
 
                     return RedirectToAction(nameof(Login));
                 }
                 else
                 {
-                    ViewData["Message"] = "This email address is already being used.";
+                    TempData["Message"] = "This email address is already being used.";
                 }
             }
             return View(vm);
@@ -112,7 +112,7 @@ namespace Blog.Controllers
             var result = await userManager.ConfirmEmailAsync(user, token);
             if (result.Succeeded)
             {
-                return View();
+                return RedirectToAction("Index", "Home");
             }
             ViewBag.ErrorTitle = "Email can not be confirmed.";
             return View("Error");
@@ -138,10 +138,10 @@ namespace Blog.Controllers
 						);
 				string content = "Password reset link:  " + resetLink;
 				SendEmail(user.Email, content, "Password Reset");
-				ViewData["Message"] = "Password reset link has been sent to your email adress.";
+				TempData["Message"] = "Password reset link has been sent to your email adress.";
 				return View();
 			}
-			ViewData["Message"] = "Email address not found. If you think this is a mistake please make sure you've confirmed your email address.";
+			TempData["Message"] = "Email address not found. If you think this is a mistake please make sure you've confirmed your email address.";
 			return View();
 		}
         public async Task<IActionResult> ResetPassword(string token, string email)
@@ -166,7 +166,7 @@ namespace Blog.Controllers
 						var result = await userManager.ResetPasswordAsync(user, vm.Token, vm.Password);
 						if (result.Succeeded)
 						{
-							ViewData["Message"] = "Your Password has been successfully changed.";
+							TempData["Message"] = "Your Password has been successfully changed.";
 							return View("Error");
 						}
 						foreach (var error in result.Errors)

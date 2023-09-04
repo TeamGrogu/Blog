@@ -12,7 +12,6 @@ namespace Blog.Models.ViewModel
         [Number(ErrorMessage = "The field must contain at least one number.")]
         public string Password { get; set; }
         [Required]
-        [EmailCheck(ErrorMessage = "Email is already in use.")]
         public string Email { get; set; }
     }
 }

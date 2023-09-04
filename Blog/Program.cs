@@ -2,6 +2,8 @@ using Blog.Services;
 using Blog.Models.DAL;
 using Microsoft.EntityFrameworkCore;
 using Blog.Models;
+using Blog.Models.Entities;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +11,14 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<Context>
 	(x => x.UseSqlServer(builder.Configuration.GetConnectionString("ConnStr")));
+
+builder.Services.AddIdentity<User, Role>
+	(x =>
+	{
+		x.SignIn.RequireConfirmedEmail = true;
+		x.Password.RequiredLength = 6;
+	}).AddRoles<Role>().AddEntityFrameworkStores<Context>()
+	  .AddDefaultTokenProviders();
 
 builder.Services.ConfigureApplicationCookie(
                  option =>

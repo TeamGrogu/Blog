@@ -8,10 +8,10 @@ namespace Blog.Validations
         protected override ValidationResult IsValid(object value, ValidationContext validationContext)
         {
             if (value == null)
-                return ValidationResult.Success; // Let the Required attribute handle null values
+                return ValidationResult.Success;
 
             string email = value.ToString();
-            var userService = (IUserService)validationContext.GetService(typeof(IUserService)); // Replace with your user service interface
+            var userService = (IUserService)validationContext.GetService(typeof(IUserService));
 
             if (userService.IsEmailInUse(email))
             {
