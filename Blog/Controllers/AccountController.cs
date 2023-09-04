@@ -1,4 +1,5 @@
 ﻿using Blog.Models;
+using Blog.Models.DAL;
 using Blog.Models.Entities;
 using Blog.Models.ViewModel;
 using Blog.Services;
@@ -15,17 +16,29 @@ namespace Blog.Controllers
         private readonly SignInManager<User> signInManager;
         private readonly IUserService _userService;
         public readonly IEmailService _emailService;
+		private readonly Context _db;
 
-        public AccountController(SignInManager<User> signInManager, UserManager<User> userManager, IPasswordHasher<User> passwordHasher, IUserService userService, IEmailService emailService)
+		public AccountController(SignInManager<User> signInManager, UserManager<User> userManager, IPasswordHasher<User> passwordHasher, IUserService userService, IEmailService emailService,Context db)
         {
             this.signInManager = signInManager;
             this.passwordHasher = passwordHasher;
             this.userManager = userManager;
             this._userService = userService;
             this._emailService = emailService;
+            _db = db;
         }
+		public IActionResult WriteArticle()
+		{
+			return View();
+		}
 
-        public IActionResult Login()
+        [HttpPost]
+		public IActionResult WriteArticle(int id)
+		{
+        
+			return View();
+		}
+		public IActionResult Login()
         {
             return View();
         }
